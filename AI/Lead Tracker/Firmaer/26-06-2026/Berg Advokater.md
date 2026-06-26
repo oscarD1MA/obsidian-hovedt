@@ -1,0 +1,8 @@
+Email: [ts@bergadvokater.dk](mailto:ts@bergadvokater.dk)  
+Kontakt: Thomas  
+By: Rødding  
+Sendt: 26. juni 2026  
+Status: Sendt  
+Projekt: [[AI Lead Generation Agency]]
+
+Noter:
