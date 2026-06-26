@@ -1,1 +1,1 @@
-Lead skabelon
+[[lae]]Lead skabelon
