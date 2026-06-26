@@ -1,1 +1,1 @@
-[[laed s]]Lead skabelon
+[[Lead skabelon]]Lead skabelon
