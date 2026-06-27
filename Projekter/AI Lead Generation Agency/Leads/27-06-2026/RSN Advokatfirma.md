@@ -1,8 +1,8 @@
-Telefon: 30 11 77 XX
+Telefon: 30 11 77 66
 Email: MANGLER
 By: Nordhavn
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[AI Lead Generation Agency]]
+Projekt: [[27-06-2026]]
 
 Noter:

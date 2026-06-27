@@ -1,8 +1,8 @@
-Telefon: 26 47 11 0X
+Telefon: 64 71 10 61
 Email: MANGLER
 By: Assens
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[AI Lead Generation Agency]]
+Projekt: [[27-06-2026]]
 
 Noter:

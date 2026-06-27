@@ -1,8 +1,8 @@
-Telefon: 33 11 36 XX
+Telefon: 33 11 36 36
 Email: MANGLER
 By: København
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[AI Lead Generation Agency]]
+Projekt: [[27-06-2026]]
 
 Noter:

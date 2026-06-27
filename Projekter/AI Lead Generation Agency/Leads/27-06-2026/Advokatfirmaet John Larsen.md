@@ -1,8 +1,8 @@
-Telefon: 55 73 02 XX
+Telefon: 55 73 02 04
 Email: MANGLER
 By: Næstved
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[AI Lead Generation Agency]]
+Projekt: [[27-06-2026]]
 
 Noter:

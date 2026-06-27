@@ -3,6 +3,6 @@ Email: post@advokatreinwald.dk
 By: Vejle
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[AI Lead Generation Agency]]
+Projekt: [[27-06-2026]]
 
 Noter:

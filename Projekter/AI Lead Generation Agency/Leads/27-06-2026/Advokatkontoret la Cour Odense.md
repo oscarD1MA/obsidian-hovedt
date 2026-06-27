@@ -1,8 +1,8 @@
-Telefon: 23 37 23 XX
+Telefon: 23 37 23 17
 Email: MANGLER
 By: Odense
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[AI Lead Generation Agency]]
+Projekt: [[27-06-2026]]
 
 Noter:
