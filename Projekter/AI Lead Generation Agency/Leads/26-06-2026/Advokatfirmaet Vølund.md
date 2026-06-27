@@ -1,3 +1,4 @@
+Telefon: MANGLER — find manuelt
 Email: [line@advokatvoelund.dk](mailto:line@advokatvoelund.dk)  
 Kontakt: Line  
 By: Svendborg  
