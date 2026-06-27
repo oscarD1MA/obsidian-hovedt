@@ -1,3 +1,4 @@
+Telefon: 86 13 06 00
 Email: [af@askt.dk](mailto:af@askt.dk)  
 Kontakt: Anette  
 By: Aarhus  

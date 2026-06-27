@@ -1,3 +1,4 @@
+Telefon: 49 13 10 00
 Email: [tsn@lokaladvokaterne.dk](mailto:tsn@lokaladvokaterne.dk)  
 Kontakt: Trygve  
 By: Humlebæk  

@@ -1,3 +1,4 @@
+Telefon: 40 85 89 55
 Email: [akc@akc.dk](mailto:akc@akc.dk)  
 Kontakt: Ann-Sofie  
 By: Vedbæk  

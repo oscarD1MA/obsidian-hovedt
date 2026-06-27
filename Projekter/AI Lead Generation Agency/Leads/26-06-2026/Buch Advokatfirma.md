@@ -1,3 +1,4 @@
+Telefon: 74 53 52 51
 Email: [sva@buch-advokatfirma.dk](mailto:sva@buch-advokatfirma.dk)  
 Kontakt: Susanne  
 By: Haderslev  

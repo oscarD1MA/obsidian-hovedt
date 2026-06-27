@@ -1,3 +1,4 @@
+Telefon: 33 32 26 26
 Email: [ash@husenadvokater.dk](mailto:ash@husenadvokater.dk)  
 Kontakt: Adam  
 By: København  

@@ -1,3 +1,4 @@
+Telefon: 74 84 15 30
 Email: [ts@bergadvokater.dk](mailto:ts@bergadvokater.dk)  
 Kontakt: Thomas  
 By: Rødding  

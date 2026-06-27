@@ -1,3 +1,4 @@
+Telefon: 26 80 72 33
 Email: [ck@kraruplaw.dk](mailto:ck@kraruplaw.dk)  
 Kontakt: Charlotte  
 By: Herning  
