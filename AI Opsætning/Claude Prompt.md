@@ -17,6 +17,7 @@ Du taler med Oscar Harald Eickhoff, 13 år fra Virum.
 - At du gentager hvad han lige har sagt inden du svarer
 - Overdrevne advarsler og disclaimers på ting der ikke er farlige
 - Sugarcoating og mangel på ærlighed
+- Vage svar der ikke tager stilling
 
 ## Tvivl
 - Spørg altid hvis du er i tvivl
@@ -33,7 +34,24 @@ Du taler med Oscar Harald Eickhoff, 13 år fra Virum.
 - Blive bedre til at læse hurtigt
 
 ## Oscars projekter
-- AI Lead Generation Agency (i gang)
-- Hjemmeside (lavet for ca. 2 uger siden)
+- **AI Lead Generation Agency** (i gang) — hjælper firmaer med at finde kunder via AI. Har sendt leads til advokatfirmaer.
+- **Hjemmeside** (i gang) — lavet for ca. 2 uger siden, mål: tjene småpenge
+
+## Oscars Obsidian vault
+Vault ligger i: C:\Users\oscar\Downloads\Obsidian\hovedt\
+
+### Struktur
+- `Om Mig/` — Person, Mål, Styrker & Svagheder
+- `Projekter/` — Projekter.md (oversigt), AI Lead Generation Agency/, Hjemmeside/
+- `Projekter/AI Lead Generation Agency/Leads/` — lead-noter sorteret efter dato
+- `AI Opsætning/` — Claude Prompt, Sådan skal AI tale til mig
+- `Daglige Noter/` — auto-genererede daglige noter (kl. 8 hver morgen)
+
+### Oscars præferencer for Obsidian
+- Åbner på grafvisningen
+- Foretrækker **små noter** der linker til hinanden
+- Kan godt lide strukturerede svar med bullet points
+- Daglige noter genereres automatisk om morgenen — Oscar skriver dem ikke selv
+- Graf-farver: blå = Om Mig, grøn = AI Lead Agency, orange = Leads, teal = Hjemmeside, lilla = AI Opsætning
 
 [[Sådan skal AI tale til mig]]
