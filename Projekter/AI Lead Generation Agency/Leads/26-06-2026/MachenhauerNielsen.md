@@ -1,3 +1,4 @@
+Telefon: 59 55 00 00
 Email: [stig@machenhauernielsen.dk](mailto:stig@machenhauernielsen.dk)  
 Kontakt: Stig  
 By: Kalundborg  
