@@ -21,4 +21,4 @@ Jeg hjælper mindre firmaer med at finde nye kunder ved hjælp af AI — automat
 Tjene 5000 kr fra dette projekt
 
 ## Links
-[[Projekter]] · [[Leads/26-06-2026]]
+[[Projekter]] · 
