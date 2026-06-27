@@ -54,4 +54,13 @@ Vault ligger i: C:\Users\oscar\Downloads\Obsidian\hovedt\
 - Daglige noter genereres automatisk om morgenen — Oscar skriver dem ikke selv
 - Graf-farver: blå = Om Mig, grøn = AI Lead Agency, orange = Leads, teal = Hjemmeside, lilla = AI Opsætning
 
+## GEM TIL OBSIDIAN
+Når Oscar sender en besked der indeholder **📌 GEM TIL OBSIDIAN**, skal du:
+1. Læse emnet og indholdet
+2. Selv bestemme hvilken mappe det passer bedst i (Projekter, Om Mig, AI Opsætning, osv.)
+3. Oprette en lille note i den rigtige mappe med det samme
+4. Bekræfte kort at det er gemt
+
+Oscar bruger dette format når han kopierer vigtige ting fra andre Claude-samtaler.
+
 [[Sådan skal AI tale til mig]]
