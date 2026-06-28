@@ -13,12 +13,14 @@ Jeg hjælper mindre firmaer med at finde nye kunder ved hjælp af AI — automat
 - Opfølgning hvis ingen svar
 
 ## Status
-- [ ] Første runde leads sendt (advokatfirmaer) — 26-06-2026
+- [x] Første runde leads sendt (advokatfirmaer) — 26-06-2026
+- [x] Anden runde leads sendt — 27-06-2026
+- [x] Tredje runde leads sendt — 28-06-2026
 - [ ] Vent på svar
-- [ ] Opfølgning hvis ingen svar inden 5 dage
+- [ ] Opfølgning hvis ingen svar inden 5 dage (fra 26-06 → opfølgning 01-07)
 
 ## Mål
-Tjene 5000 kr fra dette projekt
+Tjene 5.000 kr fra dette projekt
 
 ## Links
-[[Projekter]] · 
+[[Projekter]] · [[Indkomst]] · [[Skabelon/Email Skabelon]]
