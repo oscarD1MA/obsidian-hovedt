@@ -9,7 +9,7 @@
 - [[Projekter/Hjemmeside/Oversigt|Hjemmeside]] — i gang
 
 ## Daglige Noter
-[[Daglige Noter/Indeks|Daglige Noter]]
+[[Daglige Noter|Daglige Noter]]
 
 ## Hurtige links
 - [[AI Opsætning/Claude Prompt|Claude Prompt]]
