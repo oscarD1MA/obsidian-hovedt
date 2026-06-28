@@ -6,7 +6,7 @@
 ## Projekter
 [[Projekter]]
 - [[Projekter/AI Lead Generation Agency/AI Lead Agency|AI Lead Generation Agency]] — i gang
-- [[Projekter/Hjemmeside/Oversigt|Hjemmeside]] — i gang
+- [[Projekter/Hjemmeside/Hjemmeside|Hjemmeside]] — i gang
 
 ## Daglige Noter
 [[Daglige Noter|Daglige Noter]]
