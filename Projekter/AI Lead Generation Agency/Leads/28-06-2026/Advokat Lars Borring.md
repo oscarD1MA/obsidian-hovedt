@@ -2,7 +2,8 @@ Email: lb@advborring.dk
 Kontakt: 
 By: 
 Sendt: 28. juni 2026
-Status: Ikke sendt
+Status: Sendt
+Projekt: [[AI Lead Agency]]
 Projekt: [[AI Lead Agency]]
 
 Noter:
