@@ -3,6 +3,6 @@ Email: info@advokatforum.dk
 By: Herning
 Kontaktet: 27. juni 2026
 Status: Ikke kontaktet
-Projekt: [[27-06-2026]]
+Projekt: [[Projekter/AI Lead Generation Agency/Leads/27-06-2026]]
 
 Noter:
