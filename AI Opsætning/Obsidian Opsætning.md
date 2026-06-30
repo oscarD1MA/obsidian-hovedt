@@ -40,4 +40,4 @@
 - Filer med samme navn i forskellige mapper
 - Løse filer der ikke linker til noget
 - Tomme mapper
-([[]])
+([[ho]])
